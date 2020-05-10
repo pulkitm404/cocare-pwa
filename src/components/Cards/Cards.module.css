@@ -1,0 +1,54 @@
+.container
+{
+    margin: 50px 0;
+}
+
+.data
+{
+    margin-bottom: 0;
+}
+
+.data a
+{
+    text-decoration: none;
+    color: black ;
+}
+
+.card{
+    margin: 0 2% !important;
+}
+
+.break
+{
+    color:  rgb(150, 215, 226);
+}
+
+
+.infected{
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+
+}
+
+.infected i
+{
+    color: blue;
+}
+
+.recovered{
+    border-bottom: 10px solid rgba(0,255,0, 0.5);
+
+}
+
+.recovered i
+{
+    color: rgb(6, 155, 6);
+}
+
+.deceased{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.deceased i
+{
+    color: brown;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+.image
+{
+    height: 50vh;
+    width: 50vh;
+    border-radius: 3%;
+}
+
+.contain
+{
+    margin: 2%;
+    background:  rgb(194, 233, 240);;
+}
+
+.message
+{
+    padding: 2%;
+}
+
+.head
+{
+    background: rgb(150, 215, 226);
+    color: white;
+}
+
+.break
+{
+    color:  rgb(150, 215, 226);
+}

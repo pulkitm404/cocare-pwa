@@ -1,0 +1,9344 @@
+[
+    {
+        "date": "14-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "7",
+            "1",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "14",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "6",
+            "0",
+            "1"
+        ],
+        "Kerala": [
+            "19",
+            "3",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "14",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "3",
+            "1",
+            "0"
+        ],
+        "Telengana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "81",
+            "9",
+            "2"
+        ],
+        "Uttar Pradesh": [
+            "12",
+            "4",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "15-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "18",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Telengana": [
+            "2",
+            "1",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "27",
+            "4",
+            "0"
+        ],
+        "Uttar Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "16-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "15",
+            "1",
+            "0"
+        ],
+        "Uttar Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "17-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "3",
+            "0",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "11",
+            "1",
+            "1"
+        ],
+        "Uttar Pradesh": [
+            "2",
+            "1",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "18-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "37",
+            "0",
+            "0"
+        ],
+        "Uttar Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "19-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "4",
+            "1",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "27",
+            "5",
+            "1"
+        ],
+        "Uttar Pradesh": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "20-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "6",
+            "2",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "12",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "58",
+            "3",
+            "0"
+        ],
+        "Uttar Pradesh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "21-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "12",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "12",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "78",
+            "0",
+            "0"
+        ],
+        "Uttar Pradesh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "2",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "22-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "1"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "4",
+            "0",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "15",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "10",
+            "0",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "67",
+            "0",
+            "3"
+        ],
+        "Uttar Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "3",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "23-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "12",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "1"
+        ],
+        "Haryana": [
+            "7",
+            "11",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "7",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "28",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "23",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "102",
+            "12",
+            "2"
+        ],
+        "Uttar Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "1"
+        ]
+    },
+    {
+        "date": "24-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "8",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "14",
+            "1",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "6",
+            "0",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "64",
+            "5",
+            "1"
+        ],
+        "Uttar Pradesh": [
+            "3",
+            "2",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "2",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "25-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "1",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "5",
+            "1",
+            "0"
+        ],
+        "Karnataka": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "9",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "15",
+            "1",
+            "0"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "8",
+            "0",
+            "1"
+        ],
+        "Mizoram": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "90",
+            "3",
+            "1"
+        ],
+        "Uttar Pradesh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "26-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "5",
+            "0",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "3",
+            "0",
+            "1"
+        ],
+        "Karnataka": [
+            "4",
+            "0",
+            "1"
+        ],
+        "Kerala": [
+            "19",
+            "7",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "3",
+            "0",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "65",
+            "7",
+            "5"
+        ],
+        "Uttar Pradesh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "27-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "9",
+            "2",
+            "1"
+        ],
+        "Kerala": [
+            "39",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Maharashtra": [
+            "31",
+            "18",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "9",
+            "0",
+            "1"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "5",
+            "1",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "15",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "9",
+            "1",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "164",
+            "26",
+            "3"
+        ],
+        "Uttar Pradesh": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "28-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "9",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "8",
+            "0",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Haryana": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "13",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "6",
+            "1",
+            "1"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "30",
+            "6",
+            "2"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "8",
+            "0",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "143",
+            "9",
+            "5"
+        ],
+        "Uttar Pradesh": [
+            "16",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "3",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "29-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "23",
+            "0",
+            "1"
+        ],
+        "Goa": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "8",
+            "1",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "20",
+            "4",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "17",
+            "0",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "110",
+            "5",
+            "3"
+        ],
+        "Uttar Pradesh": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "3",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "30-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "25",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "7",
+            "2",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "6",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "11",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "5",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "32",
+            "4",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "17",
+            "14",
+            "2"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "8",
+            "0",
+            "2"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "20",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "7",
+            "13",
+            "5"
+        ],
+        "Tamil Nadu": [
+            "17",
+            "2",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "187",
+            "49",
+            "13"
+        ],
+        "Uttar Pradesh": [
+            "24",
+            "6",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "1",
+            "0",
+            "1"
+        ]
+    },
+    {
+        "date": "31-Mar-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "21",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "23",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "4",
+            "2",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "6",
+            "0",
+            "1"
+        ],
+        "Karnataka": [
+            "13",
+            "2",
+            "0"
+        ],
+        "Kerala": [
+            "7",
+            "4",
+            "1"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "82",
+            "0",
+            "1"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "19",
+            "0",
+            "1"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "0",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "14",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "20",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "57",
+            "2",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "309",
+            "15",
+            "6"
+        ],
+        "Uttar Pradesh": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "15",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "date": "01-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "67",
+            "1",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "15",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "32",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "13",
+            "0",
+            "0"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "0",
+            "10",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "7",
+            "1",
+            "0"
+        ],
+        "Karnataka": [
+            "9",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "24",
+            "2",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "33",
+            "0",
+            "3"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "32",
+            "0",
+            "1"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "27",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "30",
+            "0",
+            "3"
+        ],
+        "Tamil Nadu": [
+            "110",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "424",
+            "16",
+            "9"
+        ],
+        "Uttar Pradesh": [
+            "13",
+            "0",
+            "2"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "02-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "38",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "5",
+            "3",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "141",
+            "2",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "1",
+            "5",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "8",
+            "1",
+            "0"
+        ],
+        "Karnataka": [
+            "14",
+            "2",
+            "0"
+        ],
+        "Kerala": [
+            "21",
+            "2",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "88",
+            "3",
+            "8"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "9",
+            "0",
+            "2"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "0",
+            "1"
+        ],
+        "Puducherry": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "13",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "27",
+            "3",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "75",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "486",
+            "22",
+            "14"
+        ],
+        "Uttar Pradesh": [
+            "11",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "16",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "03-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "15",
+            "0",
+            "1"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "93",
+            "0",
+            "2"
+        ],
+        "Goa": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "7",
+            "0",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "1"
+        ],
+        "Haryana": [
+            "9",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "4",
+            "0",
+            "1"
+        ],
+        "Kerala": [
+            "9",
+            "14",
+            "0"
+        ],
+        "Ladakh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "64",
+            "8",
+            "5"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "47",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "15",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "46",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "75",
+            "15",
+            "2"
+        ],
+        "Tamil Nadu": [
+            "102",
+            "0",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "560",
+            "38",
+            "14"
+        ],
+        "Uttar Pradesh": [
+            "46",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "6",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "04-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "28",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "59",
+            "8",
+            "0"
+        ],
+        "Goa": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "13",
+            "3",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "26",
+            "1",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "16",
+            "0",
+            "0"
+        ],
+        "Kerala": [
+            "11",
+            "8",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "148",
+            "2",
+            "6"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "25",
+            "0",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "12",
+            "2",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "27",
+            "22",
+            "1"
+        ],
+        "Telengana": [
+            "43",
+            "1",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "74",
+            "2",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "579",
+            "56",
+            "13"
+        ],
+        "Uttar Pradesh": [
+            "60",
+            "4",
+            "0"
+        ],
+        "Uttarakhand": [
+            "6",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "05-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "64",
+            "3",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "5",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "58",
+            "0",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "20",
+            "8",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "14",
+            "1",
+            "0"
+        ],
+        "Karnataka": [
+            "7",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "8",
+            "6",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "112",
+            "4",
+            "13"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "14",
+            "3",
+            "2"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "18",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "3",
+            "1",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "60",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "62",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "86",
+            "0",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "609",
+            "43",
+            "22"
+        ],
+        "Uttar Pradesh": [
+            "44",
+            "0",
+            "1"
+        ],
+        "Uttarakhand": [
+            "4",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "27",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "date": "06-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "47",
+            "0",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "6",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "22",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "18",
+            "1",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "20",
+            "0",
+            "2"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "12",
+            "8",
+            "0"
+        ],
+        "Kerala": [
+            "13",
+            "3",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "7",
+            "0"
+        ],
+        "Maharashtra": [
+            "121",
+            "14",
+            "7"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "63",
+            "8",
+            "2"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "11",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "35",
+            "0",
+            "1"
+        ],
+        "Telengana": [
+            "30",
+            "12",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "50",
+            "5",
+            "1"
+        ],
+        "Tripura": [
+            "1",
+            "0",
+            "0"
+        ],
+        "India": [
+            "484",
+            "65",
+            "16"
+        ],
+        "Uttar Pradesh": [
+            "27",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "5",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "07-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "11",
+            "0",
+            "1"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "6",
+            "6",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "51",
+            "4",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "29",
+            "3",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "9",
+            "1",
+            "0"
+        ],
+        "Haryana": [
+            "33",
+            "2",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "16",
+            "0",
+            "1"
+        ],
+        "Karnataka": [
+            "12",
+            "5",
+            "0"
+        ],
+        "Kerala": [
+            "9",
+            "12",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "150",
+            "9",
+            "12"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "34",
+            "10",
+            "6"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "2",
+            "0",
+            "1"
+        ],
+        "Punjab": [
+            "20",
+            "10",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Rajasthan": [
+            "42",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "40",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "69",
+            "6",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "572",
+            "75",
+            "27"
+        ],
+        "Uttar Pradesh": [
+            "27",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "11",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "date": "08-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "34",
+            "1",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "93",
+            "1",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "11",
+            "0",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "24",
+            "1",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "33",
+            "2",
+            "0"
+        ],
+        "Karnataka": [
+            "6",
+            "3",
+            "1"
+        ],
+        "Kerala": [
+            "9",
+            "13",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "117",
+            "38",
+            "8"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "51",
+            "4",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "7",
+            "0",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "40",
+            "20",
+            "1"
+        ],
+        "Telengana": [
+            "49",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "48",
+            "2",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "565",
+            "96",
+            "20"
+        ],
+        "Uttar Pradesh": [
+            "29",
+            "10",
+            "1"
+        ],
+        "Uttarakhand": [
+            "4",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "8",
+            "0",
+            "2"
+        ]
+    },
+    {
+        "date": "09-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "10",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "15",
+            "4",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "19",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "51",
+            "4",
+            "3"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "76",
+            "1",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "9",
+            "0",
+            "1"
+        ],
+        "Jammu and Kashmir": [
+            "26",
+            "0",
+            "1"
+        ],
+        "Karnataka": [
+            "16",
+            "2",
+            "1"
+        ],
+        "Kerala": [
+            "12",
+            "13",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "229",
+            "8",
+            "25"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "70",
+            "0",
+            "9"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "24",
+            "4",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "80",
+            "15",
+            "0"
+        ],
+        "Telengana": [
+            "18",
+            "0",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "96",
+            "6",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "813",
+            "70",
+            "46"
+        ],
+        "Uttar Pradesh": [
+            "49",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "4",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "date": "10-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "18",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "1"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "183",
+            "2",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Gujarat": [
+            "116",
+            "7",
+            "1"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "6",
+            "4",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "23",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "10",
+            "4",
+            "0"
+        ],
+        "Kerala": [
+            "7",
+            "27",
+            "0"
+        ],
+        "Ladakh": [
+            "1",
+            "1",
+            "0"
+        ],
+        "Maharashtra": [
+            "210",
+            "63",
+            "12"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "40",
+            "12",
+            "4"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "2",
+            "10",
+            "0"
+        ],
+        "Punjab": [
+            "21",
+            "2",
+            "1"
+        ],
+        "Puducherry": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "98",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "16",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "77",
+            "17",
+            "1"
+        ],
+        "Tripura": [
+            "1",
+            "0",
+            "0"
+        ],
+        "India": [
+            "871",
+            "151",
+            "22"
+        ],
+        "Uttar Pradesh": [
+            "23",
+            "1",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "11-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "24",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "166",
+            "0",
+            "5"
+        ],
+        "Goa": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Gujarat": [
+            "90",
+            "11",
+            "3"
+        ],
+        "Himachal Pradesh": [
+            "4",
+            "6",
+            "0"
+        ],
+        "Haryana": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jharkhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "8",
+            "5",
+            "0"
+        ],
+        "Kerala": [
+            "10",
+            "19",
+            "1"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "187",
+            "20",
+            "17"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "78",
+            "1",
+            "4"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "7",
+            "0",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "139",
+            "56",
+            "6"
+        ],
+        "Telengana": [
+            "16",
+            "51",
+            "2"
+        ],
+        "Tamil Nadu": [
+            "58",
+            "0",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "854",
+            "186",
+            "40"
+        ],
+        "Uttar Pradesh": [
+            "19",
+            "13",
+            "1"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "12-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "15",
+            "2",
+            "1"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "11",
+            "0"
+        ],
+        "Chandigarh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "85",
+            "1",
+            "5"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "48",
+            "0",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Haryana": [
+            "16",
+            "8",
+            "1"
+        ],
+        "Jharkhand": [
+            "2",
+            "0",
+            "1"
+        ],
+        "Jammu and Kashmir": [
+            "21",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "17",
+            "15",
+            "0"
+        ],
+        "Kerala": [
+            "2",
+            "36",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "221",
+            "9",
+            "22"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "33",
+            "3",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "12",
+            "3",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "104",
+            "5",
+            "2"
+        ],
+        "Telengana": [
+            "28",
+            "7",
+            "2"
+        ],
+        "Tamil Nadu": [
+            "106",
+            "6",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "758",
+            "114",
+            "42"
+        ],
+        "Uttar Pradesh": [
+            "31",
+            "0",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "8",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "date": "13-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "19",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "2",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "356",
+            "3",
+            "4"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "56",
+            "10",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "7",
+            "0"
+        ],
+        "Jharkhand": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "25",
+            "10",
+            "0"
+        ],
+        "Karnataka": [
+            "15",
+            "6",
+            "2"
+        ],
+        "Kerala": [
+            "3",
+            "19",
+            "0"
+        ],
+        "Ladakh": [
+            "2",
+            "1",
+            "0"
+        ],
+        "Maharashtra": [
+            "352",
+            "12",
+            "11"
+        ],
+        "Meghalaya": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "52",
+            "10",
+            "7"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "6",
+            "0"
+        ],
+        "Punjab": [
+            "6",
+            "2",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "93",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "61",
+            "0",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "98",
+            "8",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1243",
+            "112",
+            "27"
+        ],
+        "Uttar Pradesh": [
+            "75",
+            "4",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "18",
+            "10",
+            "0"
+        ]
+    },
+    {
+        "date": "14-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "45",
+            "4",
+            "4"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "2",
+            "3",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "51",
+            "0",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "78",
+            "5",
+            "2"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "1",
+            "0"
+        ],
+        "Haryana": [
+            "2",
+            "4",
+            "0"
+        ],
+        "Jharkhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "8",
+            "14",
+            "0"
+        ],
+        "Karnataka": [
+            "13",
+            "11",
+            "2"
+        ],
+        "Kerala": [
+            "8",
+            "13",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "346",
+            "30",
+            "18"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "127",
+            "13",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "8",
+            "2",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "108",
+            "26",
+            "0"
+        ],
+        "Telengana": [
+            "52",
+            "7",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "31",
+            "23",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1031",
+            "167",
+            "37"
+        ],
+        "Uttar Pradesh": [
+            "102",
+            "1",
+            "3"
+        ],
+        "Uttarakhand": [
+            "2",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "38",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "date": "15-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "41",
+            "4",
+            "3"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Bihar": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "17",
+            "10",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Gujarat": [
+            "116",
+            "5",
+            "5"
+        ],
+        "Himachal Pradesh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "6",
+            "2",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "22",
+            "6",
+            "0"
+        ],
+        "Karnataka": [
+            "19",
+            "9",
+            "2"
+        ],
+        "Kerala": [
+            "1",
+            "7",
+            "0"
+        ],
+        "Ladakh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "236",
+            "36",
+            "9"
+        ],
+        "Meghalaya": [
+            "6",
+            "0",
+            "1"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "197",
+            "0",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "71",
+            "0",
+            "0"
+        ],
+        "Telengana": [
+            "6",
+            "8",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "38",
+            "37",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "1",
+            "0"
+        ],
+        "India": [
+            "886",
+            "144",
+            "27"
+        ],
+        "Uttar Pradesh": [
+            "75",
+            "7",
+            "3"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "23",
+            "1",
+            "0"
+        ]
+    },
+    {
+        "date": "16-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "9",
+            "0",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "2",
+            "3",
+            "0"
+        ],
+        "Bihar": [
+            "11",
+            "8",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "3",
+            "6",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "62",
+            "11",
+            "6"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "163",
+            "9",
+            "3"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Haryana": [
+            "11",
+            "8",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "14",
+            "2",
+            "0"
+        ],
+        "Karnataka": [
+            "36",
+            "2",
+            "1"
+        ],
+        "Kerala": [
+            "7",
+            "27",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Maharashtra": [
+            "285",
+            "5",
+            "7"
+        ],
+        "Meghalaya": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "226",
+            "6",
+            "2"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "11",
+            "2",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "55",
+            "17",
+            "0"
+        ],
+        "Telengana": [
+            "50",
+            "68",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "25",
+            "62",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1061",
+            "258",
+            "26"
+        ],
+        "Uttar Pradesh": [
+            "70",
+            "11",
+            "2"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "18",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "date": "17-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "38",
+            "15",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Bihar": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "67",
+            "20",
+            "4"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "170",
+            "13",
+            "5"
+        ],
+        "Himachal Pradesh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "8",
+            "21",
+            "0"
+        ],
+        "Jharkhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "14",
+            "4",
+            "1"
+        ],
+        "Karnataka": [
+            "44",
+            "6",
+            "0"
+        ],
+        "Kerala": [
+            "1",
+            "10",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "120",
+            "31",
+            "7"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "146",
+            "0",
+            "14"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Punjab": [
+            "14",
+            "1",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "98",
+            "19",
+            "6"
+        ],
+        "Telengana": [
+            "66",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "56",
+            "103",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "922",
+            "273",
+            "38"
+        ],
+        "Uttar Pradesh": [
+            "44",
+            "14",
+            "1"
+        ],
+        "Uttarakhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "24",
+            "9",
+            "0"
+        ]
+    },
+    {
+        "date": "18-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "31",
+            "7",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Bihar": [
+            "1",
+            "5",
+            "1"
+        ],
+        "Chandigarh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "186",
+            "135",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "277",
+            "7",
+            "12"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "9",
+            "14",
+            "0"
+        ],
+        "Jharkhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "13",
+            "9",
+            "0"
+        ],
+        "Karnataka": [
+            "25",
+            "16",
+            "1"
+        ],
+        "Kerala": [
+            "4",
+            "2",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "327",
+            "34",
+            "10"
+        ],
+        "Meghalaya": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "92",
+            "57",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "1",
+            "3",
+            "0"
+        ],
+        "Punjab": [
+            "23",
+            "1",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Rajasthan": [
+            "122",
+            "17",
+            "4"
+        ],
+        "Telengana": [
+            "43",
+            "0",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "49",
+            "82",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1371",
+            "426",
+            "35"
+        ],
+        "Uttar Pradesh": [
+            "126",
+            "26",
+            "0"
+        ],
+        "Uttarakhand": [
+            "2",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "32",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "date": "19-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "44",
+            "23",
+            "1"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "5",
+            "0"
+        ],
+        "Bihar": [
+            "10",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "110",
+            "83",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Gujarat": [
+            "367",
+            "12",
+            "10"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "18",
+            "4",
+            "0"
+        ],
+        "Jharkhand": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "13",
+            "5",
+            "0"
+        ],
+        "Karnataka": [
+            "6",
+            "7",
+            "2"
+        ],
+        "Kerala": [
+            "2",
+            "13",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "552",
+            "142",
+            "12"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "5",
+            "4",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "10",
+            "6",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "127",
+            "5",
+            "2"
+        ],
+        "Telengana": [
+            "49",
+            "0",
+            "3"
+        ],
+        "Tamil Nadu": [
+            "105",
+            "46",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1580",
+            "388",
+            "38"
+        ],
+        "Uttar Pradesh": [
+            "125",
+            "19",
+            "3"
+        ],
+        "Uttarakhand": [
+            "2",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "23",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "date": "20-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "75",
+            "27",
+            "3"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Bihar": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "78",
+            "141",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "196",
+            "26",
+            "8"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "1",
+            "37",
+            "0"
+        ],
+        "Jharkhand": [
+            "5",
+            "4",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "14",
+            "15",
+            "0"
+        ],
+        "Karnataka": [
+            "18",
+            "1",
+            "0"
+        ],
+        "Kerala": [
+            "6",
+            "21",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "466",
+            "65",
+            "9"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "78",
+            "7",
+            "4"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "13",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "1",
+            "1",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "98",
+            "0",
+            "2"
+        ],
+        "Telengana": [
+            "14",
+            "0",
+            "2"
+        ],
+        "Tamil Nadu": [
+            "43",
+            "46",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1239",
+            "419",
+            "33"
+        ],
+        "Uttar Pradesh": [
+            "84",
+            "13",
+            "1"
+        ],
+        "Uttarakhand": [
+            "2",
+            "7",
+            "0"
+        ],
+        "West Bengal": [
+            "29",
+            "4",
+            "0"
+        ]
+    },
+    {
+        "date": "21-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "35",
+            "4",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "13",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "75",
+            "180",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "239",
+            "8",
+            "19"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "4",
+            "6",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "12",
+            "10",
+            "0"
+        ],
+        "Karnataka": [
+            "10",
+            "17",
+            "1"
+        ],
+        "Kerala": [
+            "19",
+            "16",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "552",
+            "150",
+            "19"
+        ],
+        "Meghalaya": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "67",
+            "10",
+            "4"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "5",
+            "6",
+            "0"
+        ],
+        "Punjab": [
+            "6",
+            "11",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "159",
+            "69",
+            "1"
+        ],
+        "Telengana": [
+            "56",
+            "8",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "76",
+            "178",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1537",
+            "703",
+            "53"
+        ],
+        "Uttar Pradesh": [
+            "153",
+            "22",
+            "3"
+        ],
+        "Uttarakhand": [
+            "0",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "53",
+            "7",
+            "3"
+        ]
+    },
+    {
+        "date": "22-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "56",
+            "24",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "92",
+            "113",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "229",
+            "40",
+            "13"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "9",
+            "11",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "27",
+            "11",
+            "0"
+        ],
+        "Karnataka": [
+            "9",
+            "2",
+            "0"
+        ],
+        "Kerala": [
+            "11",
+            "1",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "431",
+            "67",
+            "18"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "35",
+            "4",
+            "0"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "4",
+            "2",
+            "0"
+        ],
+        "Punjab": [
+            "27",
+            "4",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "153",
+            "70",
+            "1"
+        ],
+        "Telengana": [
+            "15",
+            "0",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "33",
+            "27",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1292",
+            "394",
+            "36"
+        ],
+        "Uttar Pradesh": [
+            "112",
+            "11",
+            "0"
+        ],
+        "Uttarakhand": [
+            "0",
+            "4",
+            "0"
+        ],
+        "West Bengal": [
+            "31",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "23-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "80",
+            "21",
+            "3"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "27",
+            "2",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "128",
+            "84",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "217",
+            "79",
+            "9"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Haryana": [
+            "6",
+            "12",
+            "0"
+        ],
+        "Jharkhand": [
+            "7",
+            "4",
+            "1"
+        ],
+        "Jammu and Kashmir": [
+            "27",
+            "0",
+            "0"
+        ],
+        "Karnataka": [
+            "18",
+            "14",
+            "0"
+        ],
+        "Kerala": [
+            "10",
+            "8",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Maharashtra": [
+            "778",
+            "51",
+            "14"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "100",
+            "51",
+            "3"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "5",
+            "13",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "76",
+            "107",
+            "1"
+        ],
+        "Telengana": [
+            "27",
+            "58",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "54",
+            "90",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "1",
+            "0"
+        ],
+        "India": [
+            "1667",
+            "642",
+            "40"
+        ],
+        "Uttar Pradesh": [
+            "61",
+            "33",
+            "3"
+        ],
+        "Uttarakhand": [
+            "1",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "33",
+            "6",
+            "0"
+        ]
+    },
+    {
+        "date": "24-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "62",
+            "4",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "53",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "138",
+            "49",
+            "3"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "191",
+            "7",
+            "15"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "5",
+            "16",
+            "0"
+        ],
+        "Jharkhand": [
+            "6",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "20",
+            "17",
+            "0"
+        ],
+        "Karnataka": [
+            "29",
+            "7",
+            "1"
+        ],
+        "Kerala": [
+            "3",
+            "15",
+            "1"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "390",
+            "117",
+            "18"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "159",
+            "7",
+            "9"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "15",
+            "4",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "70",
+            "42",
+            "4"
+        ],
+        "Telengana": [
+            "13",
+            "39",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "72",
+            "114",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1408",
+            "484",
+            "59"
+        ],
+        "Uttar Pradesh": [
+            "111",
+            "20",
+            "1"
+        ],
+        "Uttarakhand": [
+            "1",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "58",
+            "24",
+            "3"
+        ]
+    },
+    {
+        "date": "25-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "4",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "61",
+            "26",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "28",
+            "1",
+            "0"
+        ],
+        "Chandigarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "111",
+            "12",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "256",
+            "17",
+            "6"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Haryana": [
+            "12",
+            "5",
+            "0"
+        ],
+        "Jharkhand": [
+            "8",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "40",
+            "3",
+            "1"
+        ],
+        "Karnataka": [
+            "26",
+            "6",
+            "0"
+        ],
+        "Kerala": [
+            "7",
+            "7",
+            "0"
+        ],
+        "Ladakh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "811",
+            "119",
+            "22"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "99",
+            "71",
+            "7"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "10",
+            "2",
+            "0"
+        ],
+        "Puducherry": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "49",
+            "20",
+            "2"
+        ],
+        "Telengana": [
+            "7",
+            "16",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "66",
+            "94",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1835",
+            "442",
+            "44"
+        ],
+        "Uttar Pradesh": [
+            "172",
+            "35",
+            "2"
+        ],
+        "Uttarakhand": [
+            "0",
+            "1",
+            "0"
+        ],
+        "West Bengal": [
+            "57",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "26-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "81",
+            "60",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "8",
+            "0"
+        ],
+        "Bihar": [
+            "26",
+            "11",
+            "0"
+        ],
+        "Chandigarh": [
+            "8",
+            "2",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "293",
+            "8",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "230",
+            "31",
+            "18"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "9",
+            "8",
+            "0"
+        ],
+        "Jharkhand": [
+            "15",
+            "5",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "29",
+            "25",
+            "0"
+        ],
+        "Karnataka": [
+            "3",
+            "24",
+            "1"
+        ],
+        "Kerala": [
+            "11",
+            "4",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "440",
+            "112",
+            "19"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "145",
+            "21",
+            "4"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "3",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "14",
+            "12",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "102",
+            "116",
+            "7"
+        ],
+        "Telengana": [
+            "11",
+            "9",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "64",
+            "60",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1607",
+            "585",
+            "56"
+        ],
+        "Uttar Pradesh": [
+            "80",
+            "66",
+            "3"
+        ],
+        "Uttarakhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "40",
+            "2",
+            "2"
+        ]
+    },
+    {
+        "date": "27-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "80",
+            "4",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "69",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "9",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "190",
+            "0",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "247",
+            "81",
+            "11"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Haryana": [
+            "5",
+            "14",
+            "0"
+        ],
+        "Jharkhand": [
+            "21",
+            "4",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "23",
+            "27",
+            "1"
+        ],
+        "Karnataka": [
+            "9",
+            "11",
+            "1"
+        ],
+        "Kerala": [
+            "13",
+            "13",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "522",
+            "94",
+            "27"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "75",
+            "55",
+            "7"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "15",
+            "2",
+            "0"
+        ],
+        "Punjab": [
+            "8",
+            "14",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Rajasthan": [
+            "77",
+            "115",
+            "9"
+        ],
+        "Telengana": [
+            "2",
+            "16",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "52",
+            "54",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1568",
+            "580",
+            "58"
+        ],
+        "Uttar Pradesh": [
+            "113",
+            "72",
+            "1"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "38",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "date": "28-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "82",
+            "23",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "20",
+            "8",
+            "0"
+        ],
+        "Chandigarh": [
+            "11",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "206",
+            "201",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "226",
+            "40",
+            "19"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "7",
+            "11",
+            "0"
+        ],
+        "Jharkhand": [
+            "2",
+            "2",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "19",
+            "12",
+            "1"
+        ],
+        "Karnataka": [
+            "11",
+            "14",
+            "0"
+        ],
+        "Kerala": [
+            "4",
+            "4",
+            "0"
+        ],
+        "Ladakh": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "728",
+            "106",
+            "31"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "222",
+            "16",
+            "10"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "12",
+            "3",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "102",
+            "26",
+            "2"
+        ],
+        "Telengana": [
+            "6",
+            "42",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "121",
+            "54",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1902",
+            "636",
+            "69"
+        ],
+        "Uttar Pradesh": [
+            "67",
+            "63",
+            "3"
+        ],
+        "Uttarakhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "48",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "date": "29-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "73",
+            "29",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Bihar": [
+            "37",
+            "0",
+            "0"
+        ],
+        "Chandigarh": [
+            "12",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "125",
+            "14",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "308",
+            "93",
+            "16"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "3",
+            "1",
+            "0"
+        ],
+        "Jharkhand": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "16",
+            "16",
+            "0"
+        ],
+        "Karnataka": [
+            "12",
+            "9",
+            "1"
+        ],
+        "Kerala": [
+            "10",
+            "10",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Maharashtra": [
+            "597",
+            "205",
+            "32"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "173",
+            "88",
+            "10"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "7",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "33",
+            "0",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "76",
+            "44",
+            "3"
+        ],
+        "Telengana": [
+            "7",
+            "35",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "104",
+            "82",
+            "2"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1705",
+            "690",
+            "71"
+        ],
+        "Uttar Pradesh": [
+            "81",
+            "48",
+            "5"
+        ],
+        "Uttarakhand": [
+            "1",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "28",
+            "10",
+            "0"
+        ]
+    },
+    {
+        "date": "30-Apr-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "71",
+            "34",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "22",
+            "20",
+            "0"
+        ],
+        "Chandigarh": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "2",
+            "2",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "76",
+            "2",
+            "3"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "313",
+            "86",
+            "17"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Haryana": [
+            "28",
+            "10",
+            "1"
+        ],
+        "Jharkhand": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "33",
+            "24",
+            "0"
+        ],
+        "Karnataka": [
+            "30",
+            "13",
+            "1"
+        ],
+        "Kerala": [
+            "2",
+            "14",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "583",
+            "180",
+            "27"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "65",
+            "21",
+            "7"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "18",
+            "2",
+            "0"
+        ],
+        "Punjab": [
+            "105",
+            "3",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "144",
+            "79",
+            "3"
+        ],
+        "Telengana": [
+            "22",
+            "33",
+            "3"
+        ],
+        "Tamil Nadu": [
+            "161",
+            "48",
+            "0"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "1801",
+            "630",
+            "75"
+        ],
+        "Uttar Pradesh": [
+            "77",
+            "41",
+            "1"
+        ],
+        "Uttarakhand": [
+            "2",
+            "8",
+            "0"
+        ],
+        "West Bengal": [
+            "33",
+            "5",
+            "11"
+        ]
+    },
+    {
+        "date": "01-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "60",
+            "82",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "4",
+            "0"
+        ],
+        "Bihar": [
+            "41",
+            "14",
+            "1"
+        ],
+        "Chandigarh": [
+            "14",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "223",
+            "73",
+            "2"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "326",
+            "123",
+            "22"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "2",
+            "0"
+        ],
+        "Haryana": [
+            "18",
+            "6",
+            "0"
+        ],
+        "Jharkhand": [
+            "3",
+            "2",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "25",
+            "31",
+            "0"
+        ],
+        "Karnataka": [
+            "24",
+            "22",
+            "0"
+        ],
+        "Kerala": [
+            "0",
+            "9",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "1008",
+            "106",
+            "26"
+        ],
+        "Meghalaya": [
+            "0",
+            "10",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "90",
+            "42",
+            "8"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "11",
+            "14",
+            "0"
+        ],
+        "Punjab": [
+            "105",
+            "4",
+            "0"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "82",
+            "223",
+            "4"
+        ],
+        "Telengana": [
+            "6",
+            "22",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "203",
+            "54",
+            "1"
+        ],
+        "Tripura": [
+            "0",
+            "0",
+            "0"
+        ],
+        "India": [
+            "2396",
+            "962",
+            "77"
+        ],
+        "Uttar Pradesh": [
+            "117",
+            "103",
+            "2"
+        ],
+        "Uttarakhand": [
+            "0",
+            "1",
+            "1"
+        ],
+        "West Bengal": [
+            "37",
+            "15",
+            "8"
+        ]
+    },
+    {
+        "date": "02-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "10",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "62",
+            "38",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "15",
+            "19",
+            "1"
+        ],
+        "Chandigarh": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "384",
+            "89",
+            "3"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "333",
+            "160",
+            "26"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "3",
+            "0"
+        ],
+        "Haryana": [
+            "19",
+            "1",
+            "1"
+        ],
+        "Jharkhand": [
+            "2",
+            "1",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "27",
+            "7",
+            "0"
+        ],
+        "Karnataka": [
+            "12",
+            "20",
+            "3"
+        ],
+        "Kerala": [
+            "2",
+            "8",
+            "0"
+        ],
+        "Ladakh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "790",
+            "121",
+            "36"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "73",
+            "100",
+            "6"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "6",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "187",
+            "4",
+            "0"
+        ],
+        "Puducherry": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "106",
+            "126",
+            "6"
+        ],
+        "Telengana": [
+            "17",
+            "35",
+            "1"
+        ],
+        "Tamil Nadu": [
+            "231",
+            "29",
+            "1"
+        ],
+        "Tripura": [
+            "2",
+            "0",
+            "0"
+        ],
+        "India": [
+            "2564",
+            "831",
+            "92"
+        ],
+        "Uttar Pradesh": [
+            "159",
+            "44",
+            "1"
+        ],
+        "Uttarakhand": [
+            "2",
+            "2",
+            "0"
+        ],
+        "West Bengal": [
+            "127",
+            "12",
+            "7"
+        ]
+    },
+    {
+        "date": "03-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "6",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "58",
+            "47",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "36",
+            "7",
+            "0"
+        ],
+        "Chandigarh": [
+            "3",
+            "0",
+            "1"
+        ],
+        "Chhattisgarh": [
+            "14",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "427",
+            "106",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "374",
+            "146",
+            "28"
+        ],
+        "Himachal Pradesh": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Haryana": [
+            "66",
+            "3",
+            "0"
+        ],
+        "Jharkhand": [
+            "0",
+            "5",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "35",
+            "33",
+            "0"
+        ],
+        "Karnataka": [
+            "13",
+            "22",
+            "0"
+        ],
+        "Kerala": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Ladakh": [
+            "19",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "678",
+            "115",
+            "27"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "49",
+            "174",
+            "5"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "2",
+            "4",
+            "0"
+        ],
+        "Punjab": [
+            "330",
+            "5",
+            "1"
+        ],
+        "Puducherry": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Rajasthan": [
+            "114",
+            "114",
+            "3"
+        ],
+        "Telengana": [
+            "21",
+            "46",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "266",
+            "38",
+            "1"
+        ],
+        "Tripura": [
+            "12",
+            "0",
+            "0"
+        ],
+        "India": [
+            "2952",
+            "911",
+            "140"
+        ],
+        "Uttar Pradesh": [
+            "158",
+            "56",
+            "0"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "276",
+            "-19",
+            "74"
+        ]
+    },
+    {
+        "date": "04-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "67",
+            "36",
+            "0"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "11",
+            "3",
+            "0"
+        ],
+        "Chandigarh": [
+            "5",
+            "2",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "349",
+            "69",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "376",
+            "153",
+            "29"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "75",
+            "9",
+            "1"
+        ],
+        "Jharkhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "25",
+            "16",
+            "0"
+        ],
+        "Karnataka": [
+            "37",
+            "28",
+            "2"
+        ],
+        "Kerala": [
+            "0",
+            "61",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "1567",
+            "350",
+            "35"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "105",
+            "58",
+            "9"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "7",
+            "0",
+            "0"
+        ],
+        "Punjab": [
+            "130",
+            "11",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "175",
+            "82",
+            "6"
+        ],
+        "Telengana": [
+            "3",
+            "40",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "527",
+            "30",
+            "1"
+        ],
+        "Tripura": [
+            "13",
+            "0",
+            "0"
+        ],
+        "India": [
+            "3656",
+            "1082",
+            "103"
+        ],
+        "Uttar Pradesh": [
+            "121",
+            "48",
+            "7"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "61",
+            "86",
+            "11"
+        ]
+    },
+    {
+        "date": "05-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "67",
+            "65",
+            "1"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "2",
+            "0",
+            "0"
+        ],
+        "Bihar": [
+            "7",
+            "31",
+            "0"
+        ],
+        "Chandigarh": [
+            "17",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "206",
+            "37",
+            "0"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "441",
+            "186",
+            "49"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "1"
+        ],
+        "Haryana": [
+            "31",
+            "2",
+            "0"
+        ],
+        "Jharkhand": [
+            "10",
+            "6",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "15",
+            "17",
+            "0"
+        ],
+        "Karnataka": [
+            "22",
+            "10",
+            "2"
+        ],
+        "Kerala": [
+            "3",
+            "0",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "984",
+            "354",
+            "34"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "107",
+            "144",
+            "11"
+        ],
+        "Mizoram": [
+            "0",
+            "1",
+            "0"
+        ],
+        "Odisha": [
+            "8",
+            "0",
+            "1"
+        ],
+        "Punjab": [
+            "219",
+            "5",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "97",
+            "87",
+            "12"
+        ],
+        "Telengana": [
+            "11",
+            "43",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "508",
+            "76",
+            "2"
+        ],
+        "Tripura": [
+            "13",
+            "0",
+            "0"
+        ],
+        "India": [
+            "2971",
+            "1295",
+            "128"
+        ],
+        "Uttar Pradesh": [
+            "114",
+            "185",
+            "6"
+        ],
+        "Uttarakhand": [
+            "1",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "85",
+            "46",
+            "7"
+        ]
+    },
+    {
+        "date": "06-May-20",
+        "Andaman and Nicobar Islands": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Andhra Pradesh": [
+            "60",
+            "140",
+            "2"
+        ],
+        "Arunachal Pradesh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Assam": [
+            "1",
+            "2",
+            "0"
+        ],
+        "Bihar": [
+            "7",
+            "30",
+            "0"
+        ],
+        "Chandigarh": [
+            "5",
+            "0",
+            "0"
+        ],
+        "Chhattisgarh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Dadar Nagar Haveli": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Delhi": [
+            "428",
+            "74",
+            "1"
+        ],
+        "Goa": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Gujarat": [
+            "380",
+            "119",
+            "28"
+        ],
+        "Himachal Pradesh": [
+            "1",
+            "0",
+            "0"
+        ],
+        "Haryana": [
+            "46",
+            "4",
+            "1"
+        ],
+        "Jharkhand": [
+            "2",
+            "4",
+            "0"
+        ],
+        "Jammu and Kashmir": [
+            "34",
+            "2",
+            "0"
+        ],
+        "Karnataka": [
+            "20",
+            "23",
+            "0"
+        ],
+        "Kerala": [
+            "0",
+            "7",
+            "0"
+        ],
+        "Ladakh": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Maharashtra": [
+            "1233",
+            "275",
+            "34"
+        ],
+        "Meghalaya": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Manipur": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Madhya Pradesh": [
+            "89",
+            "99",
+            "9"
+        ],
+        "Mizoram": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Odisha": [
+            "28",
+            "1",
+            "0"
+        ],
+        "Punjab": [
+            "75",
+            "2",
+            "2"
+        ],
+        "Puducherry": [
+            "0",
+            "0",
+            "0"
+        ],
+        "Rajasthan": [
+            "159",
+            "214",
+            "4"
+        ],
+        "Telengana": [
+            "11",
+            "20",
+            "0"
+        ],
+        "Tamil Nadu": [
+            "771",
+            "31",
+            "2"
+        ],
+        "Tripura": [
+            "22",
+            "0",
+            "0"
+        ],
+        "India": [
+            "3602",
+            "1191",
+            "91"
+        ],
+        "Uttar Pradesh": [
+            "118",
+            "143",
+            "4"
+        ],
+        "Uttarakhand": [
+            "0",
+            "0",
+            "0"
+        ],
+        "West Bengal": [
+            "112",
+            "1",
+            "4"
+        ]
+    }
+]
