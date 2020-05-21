@@ -1,5 +1,5 @@
 
-Developed using React and Material UI. Data Scraping by 
+Developed using React and Material UI.
 
 This project was built so that it could be a guiding light during this time of crisis. Our project [CoCare](https://cocare.netlify.app/)  displays the latest scenario of COVID-19 in India along with a growth analysis.
 
