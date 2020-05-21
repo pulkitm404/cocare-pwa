@@ -1,26 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
 .formControl
 {
     text-align: center;
     justify-content: center;
     margin: 0%;
     padding: 0%;
-
-
-}
-.selectStyle
-{
-    min-width: 400px;
-    text-align: center;
-    justify-content: center;
-    background-color: rgb(150, 215, 226);
-    padding: 0%;
-    margin: 0%;
+    width: 100%;
+    background-color:   #f4f4f8; 
+    outline: none;
+    
 }
 
-option
-{
-    background-color:#b6ebfa;
-    color: black;
-    cursor: pointer;
-}
 

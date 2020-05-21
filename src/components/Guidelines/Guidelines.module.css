@@ -1,15 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 .image
 {
-    height: 50vh;
-    width: 50vh;
-    border-radius: 3%;
+    height: 100%;
+    width: 100%;
+}
+
+.imagemain
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 1%;
 }
 
 .contain
 {
     margin: 2%;
-    background:  rgb(194, 233, 240);;
+    padding: 2%;
+    /* background:  rgb(194, 233, 240); */
+}
+
+.containmain
+{
+    margin: 2%;
+    padding: 0%;
+   
+}
+
+.wbreak
+{
+    color: white;
 }
 
 .message

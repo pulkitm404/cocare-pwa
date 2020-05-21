@@ -4,12 +4,11 @@ import CountUp from 'react-countup';
 import cx from 'classnames';
 import { Doughnut, Line } from 'react-chartjs-2';
 
-//import dailydata from './daily_data.json';
-
+import dailydata from './daily_data.json';
 import styles from './Cards.module.css'
 
 
-export const Cards = ({dailydata, confirmed, recovered, deceased, region, lastupdate}) => {
+export const Cards = ({ /*dailydata,*/ confirmed, recovered, deceased, region, lastupdate}) => {
 
     if(!confirmed){
         return 'Loading..'
@@ -73,7 +72,7 @@ export const Cards = ({dailydata, confirmed, recovered, deceased, region, lastup
                             }}
                             options={{
                             legend: { display: true },
-                            title: { display: true, text: `Current situation in ${region}` },
+                            title: { display: true, text: `Current Proportion in ${region}` },
                             animation: {animateRotate : true},
                             responsive: true,
                             maintainAspectRatio: true
@@ -104,6 +103,13 @@ export const Cards = ({dailydata, confirmed, recovered, deceased, region, lastup
                             fill: false,
                         },
                         ],
+                        }}
+                        options={{
+                            legend: {display: true},
+                            title: { display: true, text: `Growth Analysis in ${region}` },
+                            responsive: true,
+                            maintainAspectRatio: true
+                            
                         }}
                     />
                     </CardContent>

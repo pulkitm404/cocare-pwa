@@ -1,6 +1,6 @@
 {
   "name": "cocare",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.12",
@@ -17,7 +17,8 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
-    "react-swipeable-views": "^0.13.9"
+    "react-swipeable-views": "^0.13.9",
+    "styled-components": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +40,30 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulkitm404/cocare.git"
+  },
+  "keywords": [
+    "covid19",
+    "indiafightscorona",
+    "mohfw",
+    "corona",
+    "covidindia",
+    "coronaindia",
+    "covid19india",
+    "pwa",
+    "react",
+    "cases"
+  ],
+  "author": "Pulkit Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulkitm404/cocare/issues"
+  },
+  "homepage": "https://cocare.netlify.app/"
 }

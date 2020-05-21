@@ -8,14 +8,53 @@ body
   justify-content: center ;
 }
 
+.tabpanels
+{
+  background:  #f8f8ff;
+  /* rgb(194, 233, 240); */
+}
+
+
+ @media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgb(36, 36, 36);
+  }
+  .tabpanels
+ {
+   background:  #727275;
+ }
+
+} 
+
+
+#loader
+{
+  padding: 50%;
+}
+
 .App-logo {
   height: 7vh;
   pointer-events: none;
 }
 
+.loader-logo{
+  height: 15vh;
+  pointer-events: none;
+}
+
+.loader-contain
+{
+  padding:10%;
+  height: 25vh;
+  width: 25vh;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 15s linear;
+  }
+  .loader-logo{
+    animation: App-logo-spin infinite 10s linear;
   }
 }
 
