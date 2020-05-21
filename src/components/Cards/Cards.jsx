@@ -4,11 +4,11 @@ import CountUp from 'react-countup';
 import cx from 'classnames';
 import { Doughnut, Line } from 'react-chartjs-2';
 
-import dailydata from './daily_data.json';
+//import dailydata from './daily_data.json';
 import styles from './Cards.module.css'
 
 
-export const Cards = ({ /*dailydata,*/ confirmed, recovered, deceased, region, lastupdate}) => {
+export const Cards = ({ dailydata, confirmed, recovered, deceased, region, lastupdate}) => {
 
     if(!confirmed){
         return 'Loading..'
