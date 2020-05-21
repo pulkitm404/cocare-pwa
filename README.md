@@ -1,21 +1,15 @@
 
+Developed using React and Material UI. Data Scraping by 
 
-This project was built so that it could be a guiding light during this time of crisis. Our project [https://cocare.netlify.app/] CoCare displays the latest scenario of COVID-19 in India along with a growth analysis.
+This project was built so that it could be a guiding light during this time of crisis. Our project [CoCare](https://cocare.netlify.app/)  displays the latest scenario of COVID-19 in India along with a growth analysis.
 
 
-The data is scraped from [https://www.mohfw.gov.in/] MoHFW and updated periodically. The projects also aims at sharing guidance  provided by [https://www.who.int/] WHO to be careful against COVID-19.
+The data is scraped from [MoHFW](https://www.mohfw.gov.in/) and updated periodically. The projects also aims at sharing guidance  provided by [WHO](https://www.who.int/) to be careful against COVID-19.
 
-Hence, the name CoCare.
+> Hence, the name CoCare.
 
-## Available Scripts
+### Team :
+- [Pulkit Mehta](https://pulkitm404.github.io/) - *Development, Analysis and Testing*
+- [Kunwar Taneja](https://www.linkedin.com/in/kunwar-taneja-84b15218b/) - *Data scraping and management*
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
