@@ -58,7 +58,8 @@
     "covid19india",
     "pwa",
     "react",
-    "cases"
+    "cases",
+    "tracker"
   ],
   "author": "Pulkit Mehta",
   "license": "ISC",
