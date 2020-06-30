@@ -85,19 +85,19 @@ export const Cards = ({ dailydata, confirmed, recovered, deceased, region, lastu
                     <CardContent>
                     <Line
                         data={{
-                        labels: dailydata.slice(15,(dailydata.length)).map(({ date }) => date),
+                        labels: dailydata.slice(30,(dailydata.length)).map(({ date }) => date),
                         datasets: [{
-                            data: dailydata.slice(15,(dailydata.length)).map((data) => data[region][0]),
+                            data: dailydata.slice(30,(dailydata.length)).map((data) => data[region][0]),
                             label: 'Infected',
                             borderColor: '#3333ff',
                             fill: false,
                         },{
-                            data: dailydata.slice(15,(dailydata.length)).map((data) => data[region][1]),
+                            data: dailydata.slice(30,(dailydata.length)).map((data) => data[region][1]),
                             label: 'Recovered',
                             borderColor: 'green',
                             fill: false,
                         },{
-                            data: dailydata.slice(15,(dailydata.length)).map((data) => data[region][2]),
+                            data: dailydata.slice(30,(dailydata.length)).map((data) => data[region][2]),
                             label: 'Deaths',
                             borderColor: 'red',
                             fill: false,
