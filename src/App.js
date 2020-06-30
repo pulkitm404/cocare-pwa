@@ -61,7 +61,7 @@ function App() {
   const[region, setRegion] = useState("India");
   const[loading, setLoading] = useState(true);
 
-  const url="https://api.jsonbin.io/b/5eac0c3f4c87c3359a64cf2f";
+  const url="https://api.jsonbin.io/b/5efae0587f16b71d48a878e5";
   const skey="$2b$10$oaU6c9isD1DYb0NuW10oTOPJ1A9jwJWmNqRcdemI2bNRbfsfL0sQ.";
   const skey2="$2b$10$lV0bEhSes4CQZNfuQeO07e.HybY0raB73jj8qhdzysHxKCXLKr2cG";
   const url2="https://api.jsonbin.io/b/5eb51d5247a2266b1474d74e";
