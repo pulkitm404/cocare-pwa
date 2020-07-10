@@ -61,16 +61,15 @@ function App() {
   const[region, setRegion] = useState("India");
   const[loading, setLoading] = useState(true);
 
-  const url="https://api.jsonbin.io/b/5efae0587f16b71d48a878e5";
-  const skey="$2b$10$oaU6c9isD1DYb0NuW10oTOPJ1A9jwJWmNqRcdemI2bNRbfsfL0sQ.";
-  const skey2="$2b$10$lV0bEhSes4CQZNfuQeO07e.HybY0raB73jj8qhdzysHxKCXLKr2cG";
-  const url2="https://api.jsonbin.io/b/5eb51d5247a2266b1474d74e";
+  //API Keys to our Periodically Updating Bin have been removed 
+  //Reach out for Collab
+
   const[dailydata, setDailydata] = useState([]);
 
   //const url="https://api.jsonbin.io/b/5eb100ab8284f36af7b5b392";
   useEffect(() =>{
-    axios.get(url,  { 'headers': { "secret-key": skey } }).then((res) => {setData(res.data); setLoading(false)});
-    axios.get(url2,  { 'headers': { "secret-key": skey2 } }).then((res) => {setDailydata(res.data); setLoading(false)});
+    /* axios.get(url,  { 'headers': { "secret-key": skey } }).then((res) => {setData(res.data); setLoading(false)});
+    axios.get(url2,  { 'headers': { "secret-key": skey2 } }).then((res) => {setDailydata(res.data); setLoading(false)}); */
   },[]);
 
   const handleRegionChange = async (region) => {
