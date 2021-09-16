@@ -10,6 +10,6 @@ The data is scraped from [MoHFW](https://www.mohfw.gov.in/) and updated periodic
 
 ### Team :
 - [Pulkit Mehta](https://pulkitm404.github.io/) - *Development, Analysis and Testing*
-- [Kunwar Taneja](https://www.linkedin.com/in/kunwar-taneja-84b15218b/) - *Data scraping and management*
+- [Devang Pandey](https://www.linkedin.com/in/devaang/) - *Data scraping and management*
 
 
